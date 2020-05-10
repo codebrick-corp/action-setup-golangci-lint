@@ -9,7 +9,7 @@ Only one input is needed: `version`. This must be a semantic version, matching a
 ## Example usage
 
 ```yaml
-uses: GusAntoniassi/action-setup-golangci-lint@v0.1.0
+uses: GusAntoniassi/action-setup-golangci-lint@v0.2.0
 with:
     version: 1.24.0
 ```
